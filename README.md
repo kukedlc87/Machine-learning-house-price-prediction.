@@ -1,2 +1,3 @@
 # Machine-learning-house-price-prediction.
 House-price: EDA, predictions, and features engine
+The House Price dataset provides valuable information about residential properties, encompassing a range of features such as carpet area, property status, floor, transaction type, furnishing, facing, overlooking, society name, bathroom count, balcony count, car parking availability, ownership type, super area, dimensions, plot area, property title, total amount, price per square foot, and a description of the property's location. This dataset offers insights into the dynamics of the housing market and can aid buyers, sellers, and real estate professionals in making informed decisions.
